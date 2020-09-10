@@ -1,6 +1,6 @@
-# devfest_app
+# GDG_DevFeast
 
-A new Flutter project.
+A new Flutter App for learning purpose.
 
 ## Getting Started
 
